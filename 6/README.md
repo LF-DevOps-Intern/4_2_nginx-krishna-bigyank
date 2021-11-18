@@ -73,4 +73,7 @@ phpinfo();
 ```
 
 ![enter image description here](https://i.imgur.com/D3i7pot.png)
+
 Now, we can visit this page in your web browser and follow`/info.php` to verify the changes
+
+![enter image description here](https://i.imgur.com/DDQcjIl.png)
